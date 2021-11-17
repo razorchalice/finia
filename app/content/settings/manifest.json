@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Finia Alderic",
+  "shortName": "Finia Alderic",
+  "description": "A website to host the bio for Finia Alderic of Balmung",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
